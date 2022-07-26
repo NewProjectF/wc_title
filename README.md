@@ -13,7 +13,7 @@ wc_title es un componente de JS que se puede aplicar a un proyecto para mostrar:
 
 ## ATRIBUTOS ADMITIDOS 👍
 
-  🎯 **"name"**: Para cambiar el texto del componente. Ej: *PROJECT F*.  
+* **"name"**: Para cambiar el texto del componente. Ej: *PROJECT F*.  
   🎯 **"size"**: Para cambiar el tamaño del texto ("em"). Ej: *2*.  
   🎯 **"spacing"**: Para cambiar el espaciado del texto ("em"). Ej: *1.5*.  
   🎯 **"width"**: Para cambiar el ancho del componente (%). Ej: *100*.  
