@@ -7,9 +7,9 @@ wc_title es un componente de JS que se puede aplicar a un proyecto para mostrar:
 ## COMO USARLO 💻
 
 1. Descargarse el Web Component.
-2. Agregar el Web Component a tu proyecto.
-3. Enlazar el JS del Web Component al archivo HTML de tu proyecto. *\<script src="wc-title.js"\>\</script\>*.
-4. Añades la etiqueta **\<wc-title\>\</wc-title\>** en el apartado del HTML donde lo quieras usar y ¡listo!, ya funcionaria.
+2. Agregue el Web Component a su proyecto.
+3. Enlace el JS del Web Component al archivo HTML de su proyecto. *\<script src="wc-title.js"\>\</script\>*.
+4. Añada la etiqueta **\<wc-title\>\</wc-title\>** en el apartado del HTML donde lo quiera usar y ¡listo!, ya funcionaria.
 
 ## ATRIBUTOS ADMITIDOS 👍
 
