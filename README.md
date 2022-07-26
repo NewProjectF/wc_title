@@ -4,6 +4,10 @@ wc_title es un componente de JS que se puede aplicar a un proyecto para mostrar:
 
 [![image](https://user-images.githubusercontent.com/78848226/180846711-ac5f0303-60f9-4788-8b10-abdf70289243.png)](https://newprojectf.github.io/)
 
+## COMO USARLO 💻
+
+Simplemente hay que añadir la etiqueta **<wc-title></wc-title>** en el apartado del HTML que se quiera usar y ya funcionaría. Adicionalmente, podremos utilizar los atributos abajo nombrados, para mejorar la experiencia del componente.
+
 ## ATRIBUTOS ADMITIDOS 👍
 
   🎯 **"name"**: Para cambiar el texto del componente. Ej: *PROJECT F*.  
